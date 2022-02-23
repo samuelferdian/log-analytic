@@ -1,0 +1,15 @@
+127.0.0.1 user-identifier frank [24/Dec/2020:01:14:00 +0000] "GET/api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier arnold [24/Dec/2020:02:24:00 +0000] "GET/api/endpoint HTTP/1.0" 404 5134
+127.0.0.1 user-identifier michael [24/Dec/2020:03:34:00 +0000] "GET/api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [24/Dec/2020:04:44:00 +0000] "GET/api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [24/Dec/2020:05:44:00 +0000] "GET/api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier arnold [24/Dec/2020:07:34:00 +0000] "GET/api/endpoint HTTP/1.0" 500 5134
+127.0.0.1 user-identifier arnold [24/Dec/2020:10:24:00 +0000] "GET/api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [24/Dec/2020:12:24:00 +0000] "GET/api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [24/Dec/2020:13:14:00 +0000] "GET/api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier michael [24/Dec/2020:13:15:00 +0000] "GET/api/endpoint HTTP/1.0" 403 5134
+127.0.0.1 user-identifier michael [24/Dec/2020:13:16:00 +0000] "GET/api/endpoint HTTP/1.0" 400 5134
+127.0.0.1 user-identifier frank [24/Dec/2020:13:17:00 +0000] "GET/api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier michael [24/Dec/2020:13:18:00 +0000] "GET/api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [24/Dec/2020:13:19:00 +0000] "GET/api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [24/Dec/2020:13:19:10 +0000] "GET/api/endpoint HTTP/1.0" 200 5134
